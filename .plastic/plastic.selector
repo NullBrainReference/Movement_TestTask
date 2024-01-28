@@ -1,0 +1,4 @@
+repository "Card RPG 22@NikitaSkapintsev@cloud"
+  path "/"
+    br "/main"
+    co "/main"
